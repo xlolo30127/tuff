@@ -1,0 +1,1 @@
+std::cout << "https://discord.gg/HW5Wh4SKe" << std::endl;

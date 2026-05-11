@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("Get the new script inside discord.gg/zerohub")
